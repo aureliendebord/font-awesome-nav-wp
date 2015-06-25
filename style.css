@@ -1,0 +1,7 @@
+/* Add a black icon before the menu-item */
+.class:before {
+  font-family: FontAwesome;
+  padding-right: 7px;
+  content: "\f046";
+  font-color: #OOO;
+}
